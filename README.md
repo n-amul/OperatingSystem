@@ -80,7 +80,6 @@ This project focused on modifying the xv6 scheduler to implement a compensating 
 ### Objectives
 - Understand and implement a lottery scheduling algorithm.
 - Modify and extend an existing operating system’s scheduler.
-- Work collaboratively with a partner to implement complex scheduling logic.
 
 ### Deliverables
 - Modified xv6 source code with the lottery scheduler implemented.
